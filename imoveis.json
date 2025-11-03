@@ -1,0 +1,22 @@
+{
+  "imoveis": [
+    {
+      "titulo": "Apartamento Central",
+      "cidade": "Itajubá",
+      "valor": 1200,
+      "tipo": "Aluguel"
+    },
+    {
+      "titulo": "Casa com quintal",
+      "cidade": "Pouso Alegre",
+      "valor": 250000,
+      "tipo": "Venda"
+    },
+    {
+      "titulo": "Kitnet mobiliada",
+      "cidade": "Itajubá",
+      "valor": 900,
+      "tipo": "Aluguel"
+    }
+  ]
+}
