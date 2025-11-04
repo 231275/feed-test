@@ -1,57 +1,47 @@
-     [
-  {
-    "titulo": "Casa moderna com piscina",
-    "tipo": "Casa",
-    "cidade": "Belo Horizonte",
-    "valor": 850000,
-    "descricao": "Casa ampla com 3 quartos, suíte, área gourmet e piscina. Localizada em bairro nobre.",
-    "imagens": [
-      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154",
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
-    ]
-  },
-  {
-    "titulo": "Apartamento mobiliado no centro",
-    "tipo": "Apartamento",
-    "cidade": "São Paulo",
-    "valor": 3200,
-    "descricao": "Apartamento de 2 quartos, todo mobiliado, perto do metrô República.",
-    "imagens": [
-      "https://images.unsplash.com/photo-1595526114035-0e52fa53d7b8",
-      "https://images.unsplash.com/photo-1560448070-4328b5194813"
-    ]
-  },
-  {
-    "titulo": "Chácara para lazer e eventos",
-    "tipo": "Chácara",
-    "cidade": "Bragança Paulista",
-    "valor": 1500000,
-    "descricao": "Chácara com 5.000m², casa principal, piscina, salão de festas e área verde exuberante.",
-    "imagens": [
-      "https://images.unsplash.com/photo-1628744446169-58c3cbfa9b24",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
-    ]
-  },
-  {
-    "titulo": "Kitnet próxima à universidade",
-    "tipo": "Kitnet",
-    "cidade": "Campinas",
-    "valor": 900,
-    "descricao": "Kitnet ideal para estudantes, com cozinha compacta e internet inclusa.",
-    "imagens": [
-      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb"
-    ]
-  },
-  {
-    "titulo": "Cobertura de luxo com vista panorâmica",
-    "tipo": "Cobertura",
-    "cidade": "Rio de Janeiro",
-    "valor": 2500000,
-    "descricao": "Cobertura com 4 suítes, jacuzzi, varanda gourmet e vista para o mar.",
-    "imagens": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
-    ]
-  }
-]
+{
+  "imoveis": [
+    {
+      "titulo": "Casa ampla com 3 quartos",
+      "tipo": "Casa",
+      "cidade": "São Paulo",
+      "valor": 750000,
+      "descricao": "Casa ampla com 3 quartos, suíte, área gourmet e piscina. Localizada em bairro nobre.",
+      "imagens": [
+        "https://images.unsplash.com/photo-1600606788969-a5bfcd646154",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+      ]
+    },
+    {
+      "titulo": "Apartamento mobiliado no centro",
+      "tipo": "Apartamento",
+      "cidade": "São Paulo",
+      "valor": 3200,
+      "descricao": "Apartamento de 2 quartos, todo mobiliado, perto do metrô República.",
+      "imagens": [
+        "https://images.unsplash.com/photo-15995526114035-0e52fa53d7b8",
+        "https://images.unsplash.com/photo-1560448070-4328b5194813"
+      ]
+    },
+    {
+      "titulo": "Chácara para lazer e eventos",
+      "tipo": "Chácara",
+      "cidade": "Bragança Paulista",
+      "valor": 1500000,
+      "descricao": "Chácara com 5.000m², casa principal, piscina, salão de festas e área verde exuberante.",
+      "imagens": [
+        "https://images.unsplash.com/photo-1628744446169-58c3cbfa9b24",
+        "https://images.unsplash.com/photo-1600858154340-be6161a56a0c"
+      ]
+    },
+    {
+      "titulo": "Kitnet próxima à universidade",
+      "tipo": "Kitnet",
+      "cidade": "Campinas",
+      "valor": 900,
+      "descricao": "Kitnet compacta e mobiliada, ideal para estudantes.",
+      "imagens": [
+        "https://images.unsplash.com/photo-1615874959474-d609969a20ed"
+      ]
+     }
+   ]
+}
